@@ -465,7 +465,7 @@ footer {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 568px) {
   .mobile-nav {
     width: 60%;
   }
